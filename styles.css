@@ -1,0 +1,30 @@
+.container-1 div {
+  border: 2px #000000 solid;
+  padding: 10px;
+}
+.container-1 {
+  display: flex;
+}
+.box-1 {
+  flex: 1;
+  order: 6;
+}
+.box-2 {
+  flex: 1;
+  order: 2;
+}
+
+.box-3 {
+  flex: 1;
+  order: 5;
+}
+.box-4 {
+  flex: 1;
+  order: 4;
+}
+.box-5 {
+  flex: 1;
+}
+.box-6 {
+  flex: 1;
+}
