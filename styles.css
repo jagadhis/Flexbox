@@ -4,7 +4,7 @@
   background-color: #f4f4f4;
   /* always on the main axis */
   justify-content: space-around;
-  height: 100vh;
+  height: 100%;
   /* Always on the cross axis */
   align-items: center;
   /* Flex Wrap to Wrap The Items In the WebPage To Responsive  */
